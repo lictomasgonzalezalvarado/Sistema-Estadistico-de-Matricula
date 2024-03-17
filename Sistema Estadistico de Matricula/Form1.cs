@@ -23,7 +23,7 @@ namespace Sistema_Estadistico_de_Matricula
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola mundo");
+            MessageBox.Show("Hola nuevo orden mundial");
         }
     }
 }
